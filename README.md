@@ -1,1 +1,1 @@
-# streamlit_eda_workshop
+# Streamlit for EDA Tutorial
