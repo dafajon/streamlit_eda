@@ -1,0 +1,6 @@
+streamlit
+streamlit-pandas-profiling
+numpy
+pandas
+seaborn
+altair
