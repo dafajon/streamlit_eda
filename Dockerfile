@@ -4,7 +4,7 @@ RUN apt-get install libgomp1
 
 FROM builder AS builder-venv
 
-ADD . /app
+ADD . /demo
 RUN pip install --disable-pip-version-check -r app/requirements.txt
 
-WORKDIR /app
+WORKDIR /demo
