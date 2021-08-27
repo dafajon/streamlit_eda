@@ -3,8 +3,6 @@ from numpy.lib.twodim_base import _trilu_dispatcher
 import streamlit as st
 import numpy as np
 import pandas as pd 
-import pandas_profiling
-from streamlit_pandas_profiling import st_profile_report
 import seaborn as sns
 import matplotlib.pyplot as plt
 import altair as alt
